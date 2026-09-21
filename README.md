@@ -315,7 +315,7 @@ Future development will include:
 
 A short video walkthrough demonstrating the RaceDay Part 1 deliverables (database design, ERD and API endpoint plan) is available at the link below:
 
-**YouTube Link:** 
+**YouTube Link:** https://youtu.be/Uf77KLrUiIg
 
 The video covers:
 
