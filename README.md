@@ -315,15 +315,6 @@ The workflow is intended to build the application and run the unit tests when th
 4. Select the latest workflow run.
 5. Check whether the build and test jobs completed successfully.
 
-### 8.2 CI/CD Screenshot
-
-Save a screenshot showing the successful GitHub Actions workflow in the following folder:
-
-`PROG6212_POE_screenshots/ci-screenshot.png`
-
-Ensure that the screenshot is committed and pushed to the repository.
-
-The screenshot should show the workflow run and its successful status clearly.
 
 ---
 
@@ -331,7 +322,7 @@ The screenshot should show the workflow run and its successful status clearly.
 
 **YouTube Link:** 
 
-<!-- Add your Part 2 YouTube video link here after recording and uploading the presentation. -->
+https://youtu.be/AusITo3qOQY
 
 The Part 2 video should demonstrate the main features of the RESTful API and provide evidence that the application and its tests work correctly.
 
@@ -348,9 +339,7 @@ The presentation can include:
 7. The unit tests running successfully.
 8. The successful GitHub Actions workflow.
 9. A short conclusion summarising the completed work.
-
-Replace the empty YouTube link section above once the video has been uploaded.
-
+.
 ---
 
 ## 10. Project Structure
