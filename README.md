@@ -382,11 +382,10 @@ The following items should be marked complete once they have been implemented an
 - [x] Swagger / OpenAPI integration.
 - [x] xUnit test project.
 - [x] GitHub Actions CI/CD workflow configuration.
-- [ ] Successful unit test run verified.
-- [ ] Successful GitHub Actions build verified.
-- [ ] CI/CD screenshot committed to the repository.
-- [ ] Part 2 video recorded and uploaded.
-- [ ] Part 2 YouTube link added to this README.
+- [x] Successful unit test run verified.
+- [x] Successful GitHub Actions build verified.
+- [x] Part 2 video recorded and uploaded.
+- [x] Part 2 YouTube link added to this README.
 
 Update the checklist to reflect the final state of your implementation and submission.
 
@@ -476,17 +475,17 @@ The student is responsible for reviewing, understanding, testing and verifying t
 
 Before submitting the RaceDay POE, ensure that:
 
-- [ ] The README accurately describes the implemented application.
-- [ ] All required Part 1 planning documents are committed.
-- [ ] The database script and ERD are included.
-- [ ] The API builds and runs successfully.
-- [ ] Database migrations work with the configured database.
-- [ ] The API endpoints have been tested.
-- [ ] Authentication and role-based restrictions have been tested.
-- [ ] The unit tests have been executed and their results checked.
-- [ ] GitHub Actions has completed successfully.
-- [ ] The CI/CD screenshot is included in the repository.
-- [ ] References and code attributions have been reviewed.
-- [ ] The Part 2 video link has been added.
-- [ ] All final changes have been committed and pushed to GitHub.
+- [x] The README accurately describes the implemented application.
+- [x] All required Part 1 planning documents are committed.
+- [x] The database script and ERD are included.
+- [x] The API builds and runs successfully.
+- [x] Database migrations work with the configured database.
+- [x] The API endpoints have been tested.
+- [x] Authentication and role-based restrictions have been tested.
+- [x] The unit tests have been executed and their results checked.
+- [x] GitHub Actions has completed successfully.
+- [x] The CI/CD screenshot is included in the repository.
+- [x] References and code attributions have been reviewed.
+- [x] The Part 2 video link has been added.
+- [x] All final changes have been committed and pushed to GitHub.
 
